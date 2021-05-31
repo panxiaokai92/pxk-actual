@@ -1,0 +1,3 @@
+## 注解的全类名
+com.panxk.actual.springboot.version3.importInter.PxkEnableAutoConfig=\
+  com.panxk.actual.springboot.version3.config.SpringRedisAutoConfig
