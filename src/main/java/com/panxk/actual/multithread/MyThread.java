@@ -17,7 +17,7 @@ public class MyThread extends Thread {
     }
 
     @Override
-    public void run() {
+    public synchronized void run() {
 
         while (true) {
             //控制锁力度问题
